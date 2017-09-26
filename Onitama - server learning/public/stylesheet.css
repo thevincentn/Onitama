@@ -1,0 +1,30 @@
+body {
+    background-color:#483d4d;
+    margin: 0px;
+    position:fixed;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    border: 1px solid black;
+}
+
+/*#onitama_board {
+  display: block;
+border: 1px solid black;
+}*/
+
+.canvas_wrapper {
+  position: absolute;
+  width: 100%;
+}
+
+.canvas_wrapper_parent {
+  transform-style: preserver-3d;
+}
+
+/*canvas{
+    background-color:#483d4d;
+    border: 1px solid black;
+
+}*/

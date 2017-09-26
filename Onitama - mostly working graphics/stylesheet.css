@@ -1,0 +1,23 @@
+body {
+    background-color:#483d4d;
+    margin: 0px;
+}
+
+#onitama_board {
+  display: block;
+  margin: 0 auto;
+}
+
+.canvas_wrapper {
+  position: absolute;
+  width: 100%;
+}
+
+.canvas_wrapper_parent {
+  transform-style: preserver-3d;
+}
+
+canvas{
+    background-color:#483d4d;
+    border: 1px solid black
+}
